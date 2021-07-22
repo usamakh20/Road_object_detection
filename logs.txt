@@ -1,0 +1,36 @@
+
+Image: 000000.png   |  Objects detected: 6   |   Time taken: 2.22s   |   FPS: 0.45
+
+Image: 000001.png   |  Objects detected: 1   |   Time taken: 1.10s   |   FPS: 0.91
+
+Image: 000008.png   |  Objects detected: 8   |   Time taken: 1.11s   |   FPS: 0.90
+
+Image: 000010.png   |  Objects detected: 8   |   Time taken: 1.16s   |   FPS: 0.86
+
+Image: 000035.png   |  Objects detected: 9   |   Time taken: 1.19s   |   FPS: 0.84
+
+Image: 000036.png   |  Objects detected: 12   |   Time taken: 1.20s   |   FPS: 0.83
+
+Image: 000062.png   |  Objects detected: 6   |   Time taken: 1.21s   |   FPS: 0.83
+
+Image: 000077.png   |  Objects detected: 10   |   Time taken: 1.19s   |   FPS: 0.84
+
+Image: 000100.png   |  Objects detected: 8   |   Time taken: 1.19s   |   FPS: 0.84
+
+Image: 000105.png   |  Objects detected: 12   |   Time taken: 1.20s   |   FPS: 0.84
+
+Image: 000112.png   |  Objects detected: 13   |   Time taken: 1.20s   |   FPS: 0.83
+
+Image: 000117.png   |  Objects detected: 8   |   Time taken: 1.20s   |   FPS: 0.83
+
+Image: 000126.png   |  Objects detected: 5   |   Time taken: 1.20s   |   FPS: 0.84
+
+Image: 000230.png   |  Objects detected: 11   |   Time taken: 1.21s   |   FPS: 0.83
+
+Image: 000273.png   |  Objects detected: 8   |   Time taken: 1.20s   |   FPS: 0.83
+
+Image: 000311.png   |  Objects detected: 11   |   Time taken: 1.20s   |   FPS: 0.83
+
+Image: 000370.png   |  Objects detected: 6   |   Time taken: 1.19s   |   FPS: 0.84
+
+Image: 007091.png   |  Objects detected: 6   |   Time taken: 1.20s   |   FPS: 0.83
